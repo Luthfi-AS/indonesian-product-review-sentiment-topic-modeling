@@ -1,0 +1,2 @@
+# indonesian-product-review-sentiment-topic-modeling
+This project analyzes Indonesian product reviews using text mining and NLP techniques. The workflow includes data scraping, text preprocessing (case folding, tokenization, normalization, stopword removal), sentiment analysis, word cloud visualization, and topic modeling using Latent Dirichlet Allocation (LDA) to identify dominant discussion topics.
